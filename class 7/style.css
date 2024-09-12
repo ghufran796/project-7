@@ -1,0 +1,18 @@
+h2 {
+    color: rgb(41, 9, 223); font-size: 50px;
+   }
+      
+   h1,p {background-color: rgb(28, 29, 33);}
+
+   #External { 
+               background-color: rgba(131, 209, 23, 0.735);
+   }
+   
+   
+   *{ 
+      font-style: italic;
+     }
+
+     .Avacado{
+               background-color:bisque 
+             }
